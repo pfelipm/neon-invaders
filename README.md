@@ -4,6 +4,8 @@
 
 # Neon Invaders: AI Edition
 
+[![Play Now on Google AI Studio](https://img.shields.io/badge/Play_Now-on_AI_Studio-green?style=for-the-badge&logo=google)](https://ai.studio/apps/drive/1vCMNUg6BbhXntZn1VAftSxvkYgvo-NWk?fullscreenApplet=true)
+
 **Neon Invaders** is a modern, web-based reimagining of the classic space shooter genre, built with **React** and powered by **Google's Gemini API**.
 
 This project fuses nostalgic arcade gameplay with cutting-edge generative AI to create a dynamic experience where the alien overlords don't just attack you—they taunt you in real-time based on your performance.
