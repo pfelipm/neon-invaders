@@ -22,7 +22,7 @@ The core twist of this edition is the **AI Integration**. Unlike traditional gam
 *   **AI-Powered Commentary:** Uses the Google GenAI SDK to generate situational taunts (e.g., "Your shields are paper-thin, human" when hit, or "Impossible..." when a boss falls).
 *   **Retro Aesthetic:** Styled with Tailwind CSS to mimic glowing vector graphics, complete with a CRT monitor overlay effect.
 *   **Progressive Difficulty:** Enemies get faster and more aggressive as you advance.
-*   **Boss Battles:** Every 5 levels, face off against a massive "Boss" entity with increased health and firepower.
+*   **Boss Battles:** Face off against massive "Boss" entities with increased health and firepower.
 *   **Resilient Architecture:** Includes circuit-breaker logic to handle API rate limits gracefully, falling back to pre-written lines if the AI is busy.
 
 ## Installation
