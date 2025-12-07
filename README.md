@@ -2,7 +2,7 @@
 <img width="1200" height="475" alt="Neon Invaders Banner" src="public/banner.svg" />
 </div>
 
-> This is a small toy project, developed by the author vibe coding with AI Studio.
+> This is a small toy project, developed by the author using a 'vibe coding' approach with AI Studio.
 
 # Neon Invaders: AI Edition
 
