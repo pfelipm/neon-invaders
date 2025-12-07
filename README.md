@@ -2,6 +2,8 @@
 <img width="1200" height="475" alt="Neon Invaders Banner" src="public/banner.svg" />
 </div>
 
+> This is a small toy project, developed by the author vibecoding with AI Studio.
+
 # Neon Invaders: AI Edition
 
 [![Play Now on Google AI Studio](https://img.shields.io/badge/Play_Now-on_AI_Studio-green?style=for-the-badge&logo=google)](https://ai.studio/apps/drive/1vCMNUg6BbhXntZn1VAftSxvkYgvo-NWk?fullscreenApplet=true)
